@@ -12,7 +12,7 @@ getgenv().Settings = {
  
 local SelectedPart = "HumanoidRootPart"
 local Prediction = true
-getgenv().PredictionValue = 0.1256
+getgenv().PredictionValue = 0.1229
  getgenv().AntiGroundShots = true
 
 local Tool = Instance.new("Tool")
